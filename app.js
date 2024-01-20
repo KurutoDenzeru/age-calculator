@@ -30,7 +30,9 @@ document.getElementById('calculateBtn').addEventListener('click', function () {
     }
 });
 
-// Note: The function used in addEventListener is an example of a function expression.
+// Note: for the javascript demo presentation
+
+// The function used in addEventListener is an example of a function expression.
 // It is defined at runtime and assigned to the event listener.
 // Arrow functions could also be used for concise expressions like this,
 // but they might behave differently regarding the 'this' keyword, depending on the context.
